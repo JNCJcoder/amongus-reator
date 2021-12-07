@@ -8,6 +8,10 @@ O Projeto coloca em prática tudo aprendido durante o curso. Ao inves de criar u
 
 <br>
 
+## Testando
+
+Você pode testar como ficou [clicando aqui](https://jncjcoder.github.io/amongus-reator/index.html)
+
 ## Imagens
 
 #### PC:
