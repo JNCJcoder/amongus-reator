@@ -18,4 +18,4 @@ Você pode testar como ficou [clicando aqui](https://jncjcoder.github.io/amongus
 ![Versão PC](./.github/PC.png)
 
 #### Mobile:
-![Versão PC](./.github/MOBILE.png)
+![Versão MOBILE](./.github/MOBILE.png)
