@@ -102,5 +102,5 @@ function restart()
     reactorState.playerTries = 0;
     reactorState.level = 1;
 
-    setTimeout(() => blinkOrder(), 1000);
+    setTimeout(blinkOrder, 1000);
 }
