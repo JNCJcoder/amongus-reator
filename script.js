@@ -17,11 +17,11 @@ let reactorState =
 
 function blinkLedAsync(image)
 {
-    return new Promise((resolve, reject) => {
+    return new Promise(resolve => {
         image.classList.add("led-ligado");
         setTimeout(() => {
             image.classList.remove("led-ligado");
-            setTimeout(() => { resolve('done'); }, 300);
+            setTimeout(resolve, 300);
         }, 1000);
     })
     
